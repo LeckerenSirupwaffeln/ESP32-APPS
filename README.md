@@ -6,6 +6,12 @@ Uses ESP32. Tested on ESP32 TinyPico.\
 Uses INMP441 Microphone Module. 
 
 ## General IPO Diagram
-[General IPO Diagram](./Multimedia/Images/General_Input_Output_Diagram.drawio.png)
+![General IPO Diagram](./Multimedia/Images/General_Input_Output_Diagram.drawio.png)
+
+## BLE Diagram
+![BLE Diagram](./Multimedia/Images/BLE_Diagram.drawio.png)
+
+## Voice Algorithm Diagram
+![Voice Algorithm Diagram](./Multimedia/Images/Voice_Algorithm_Diagram.drawio.png)
 
 
